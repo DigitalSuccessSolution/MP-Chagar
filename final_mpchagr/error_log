@@ -1,0 +1,4 @@
+[31-May-2025 04:29:17 America/Chicago] PHP Warning:  Undefined variable $admissionId in /home2/mpchagar/public_html/DSS/admission.php on line 931
+[31-May-2025 04:29:47 America/Chicago] PHP Warning:  Undefined variable $admissionId in /home2/mpchagar/public_html/DSS/admission.php on line 931
+[01-Jun-2025 09:47:21 America/Chicago] PHP Warning:  include(navabar.php): Failed to open stream: No such file or directory in /home2/mpchagar/public_html/DSS/paramedical.php on line 192
+[01-Jun-2025 09:47:21 America/Chicago] PHP Warning:  include(): Failed opening 'navabar.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mpchagar/public_html/DSS/paramedical.php on line 192

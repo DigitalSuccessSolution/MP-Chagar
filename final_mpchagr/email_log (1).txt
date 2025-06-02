@@ -1,0 +1,114 @@
+To: sumitkumarsahu141@gmail.com
+Subject: New Student Enquiry
+Headers:
+From: no-reply@mpchagar.com
+Reply-To: sumitofficial444@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Message:
+
+    <html>
+    <head>
+        <style>
+            body { font-family: Arial, sans-serif; line-height: 1.6; background: #f9f9f9; }
+            .container { background: #fff; padding: 20px; border-radius: 6px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+            h2 { color: #333; }
+            table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+            th, td { padding: 10px; text-align: left; border: 1px solid #ddd; }
+            th { background-color: #f2f2f2; font-weight: bold; }
+            .section-title { background: #007BFF; color: #fff; padding: 8px; font-weight: bold; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h2>New Student Enquiry</h2>
+            <p>A new student enquiry has been submitted. Details are below:</p><div class="section-title">Personal Information</div><table><tr>
+                            <th>Full Name</th>
+                            <td>ward no 05</td>
+                         </tr><tr>
+                            <th>Gender</th>
+                            <td>Male</td>
+                         </tr></table><br><div class="section-title">Contact Information</div><table><tr>
+                            <th>Email Address</th>
+                            <td>sumithostingermail@gmail.com</td>
+                         </tr><tr>
+                            <th>Mobile Number</th>
+                            <td>09399805947</td>
+                         </tr><tr>
+                            <th>State</th>
+                            <td>Madhya Pradesh</td>
+                         </tr><tr>
+                            <th>City</th>
+                            <td>Dhar</td>
+                         </tr></table><br><div class="section-title">Academic and Course Details</div><table><tr>
+                            <th>Interested Course</th>
+                            <td>GNM</td>
+                         </tr><tr>
+                            <th>Highest Qualification</th>
+                            <td>Graduate</td>
+                         </tr><tr>
+                            <th>Preferred Mode of Study</th>
+                            <td>Online</td>
+                         </tr></table><br><div class="section-title">Message</div><table><tr>
+                            <th>Message</th>
+                            <td>hi therer</td>
+                         </tr></table><br></div></body></html>
+
+To: sumitkumarsahu141@gmail.com
+Subject: New Student Enquiry
+Headers:
+From: no-reply@mpchagar.com
+Reply-To: sumitofficial444@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Message:
+
+    <html>
+    <head>
+        <style>
+            body { font-family: Arial, sans-serif; line-height: 1.6; background: #f9f9f9; }
+            .container { background: #fff; padding: 20px; border-radius: 6px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+            h2 { color: #333; }
+            table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+            th, td { padding: 10px; text-align: left; border: 1px solid #ddd; }
+            th { background-color: #f2f2f2; font-weight: bold; }
+            .section-title { background: #007BFF; color: #fff; padding: 8px; font-weight: bold; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h2>New Student Enquiry</h2>
+            <p>A new student enquiry has been submitted. Details are below:</p><div class="section-title">Personal Information</div><table><tr>
+                            <th>Full Name</th>
+                            <td>ward no 05</td>
+                         </tr><tr>
+                            <th>Gender</th>
+                            <td>Male</td>
+                         </tr></table><br><div class="section-title">Contact Information</div><table><tr>
+                            <th>Email Address</th>
+                            <td>pd948723@gmail.com</td>
+                         </tr><tr>
+                            <th>Mobile Number</th>
+                            <td>09399805947</td>
+                         </tr><tr>
+                            <th>State</th>
+                            <td>Madhya Pradesh</td>
+                         </tr><tr>
+                            <th>City</th>
+                            <td>Dhar</td>
+                         </tr></table><br><div class="section-title">Academic and Course Details</div><table><tr>
+                            <th>Interested Course</th>
+                            <td>ANM</td>
+                         </tr><tr>
+                            <th>Highest Qualification</th>
+                            <td>12th</td>
+                         </tr><tr>
+                            <th>Preferred Mode of Study</th>
+                            <td>Offline</td>
+                         </tr></table><br><div class="section-title">Message</div><table><tr>
+                            <th>Message</th>
+                            <td>hii iwant tocontact your for adisiion</td>
+                         </tr></table><br></div></body></html>
+

@@ -31,7 +31,7 @@ app.use(express.json());
 app.use(express.static('public'));
 // Allow only specific origin (recommended)
 app.use(cors({
-  origin: 'http://www.mpchagar.com',
+  origin: 'https://www.mpchagar.in',
   methods: ['POST', 'GET', 'OPTIONS'],
   credentials: true
 }));

@@ -193,8 +193,8 @@ app.post('/submit-form', upload.fields([
 
     // Email options
  const mailOptions = {
-    from: 'sumitkumarsahu141@gmail.com', // Admin email
-    to: 'sumitkumarsahu141@gmail.com',   // Admin email
+    from: 'admission@mpchagar.in', // Admin email
+    to: 'admission@mpchagar.in',   // Admin email
     subject: 'New Paramedical College Admission Form Submission',
     html: emailBody,
     attachments: attachments

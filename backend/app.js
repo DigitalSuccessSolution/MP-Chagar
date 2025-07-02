@@ -43,8 +43,8 @@ app.use(cors()); // Allow all domains temporarily
 const transporter = nodemailer.createTransport({
     service: 'gmail', // Use your email service
     auth: {
-        user: 'mohitmali411@gmail.com', // Replace with admin email
-        pass: 'tsry ouke aejt lqvz' // Replace with app-specific password
+        user: 'govindyadavg1206@gmail.com', // Replace with admin email
+        pass: 'tnoh vpxy oeiv ajsx' // Replace with app-specific password
     }
 });
 
